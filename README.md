@@ -1,16 +1,25 @@
 # flutter_ui_workshop
 
-A new Flutter project.
+Um projeto para o workshop de UI e Gerenciamento de Estado do Flutter.
 
-## Getting Started
+## Links úteis
 
-This project is a starting point for a Flutter application.
+### Layout
 
-A few resources to get you started if this is your first Flutter project:
+Layout Cheat Sheet: https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Layout Guide: https://fireship.io/lessons/flutter-widget-positioning-guide/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Widgets e Tema
+
+Flutter Gallery: https://gallery.flutter.dev/#/
+Material Design: https://material.io/design/introduction
+Material Color System: https://material.io/design/color/the-color-system.html
+
+### Gerenciamento de Estado com Bloc
+
+Flutter Bloc Library: bloclibrary.dev
+
+### Responsividade
+
+Responsive Builder: https://pub.dev/packages/responsive_builder
