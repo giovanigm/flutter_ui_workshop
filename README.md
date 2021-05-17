@@ -13,7 +13,9 @@ Layout Guide: https://fireship.io/lessons/flutter-widget-positioning-guide/
 ### Widgets e Tema
 
 Flutter Gallery: https://gallery.flutter.dev/#/
+
 Material Design: https://material.io/design/introduction
+
 Material Color System: https://material.io/design/color/the-color-system.html
 
 ### Gerenciamento de Estado com Bloc
